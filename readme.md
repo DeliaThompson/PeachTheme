@@ -27,7 +27,7 @@ frontend:
 
 ### HACS installation
 1. Go into the Community Store (HACS)
-2. Search for Google Dark Theme
+2. Search for Peach Theme
 3. Open the theme
 4. Press Install
 5. Restart Home Assistant
