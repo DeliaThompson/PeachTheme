@@ -1,0 +1,60 @@
+
+AMOLED Peach:
+  # Header:
+  app-header-background-color: "#424242"
+  app-header-text-color: "#FF9A6E"
+  # Main Interface Colors
+  primary-color: "#FF9A6E"
+  light-primary-color: var(--primary-color)
+  primary-background-color: "#424242"
+  secondary-background-color: var(--primary-background-color)
+  divider-color: var(--primary-background-color)
+  # Text
+  primary-text-color: "#FF9A6E"
+  secondary-text-color: "#FFA882"
+  text-primary-color: "#FFFFFF"
+  disabled-text-color: "#FF98BC"
+  # Sidebar Menu
+  sidebar-icon-color: var(--app-header-text-color)
+  sidebar-text-color: '#FF9A6E'
+  sidebar-background-color: "#2D2D2D"
+  sidebar-selected-background-color: var(--primary-background-color)
+  sidebar-selected-icon-color: "#FFA882"
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color))
+  # States and Badges
+  state-icon-color: "#FF9A6E"
+  state-icon-active-color: "#FFA882"
+  state-icon-unavailable-color: var(--disabled-text-color)
+  # Sliders
+  paper-slider-knob-color: "#FF9A6E"
+  paper-slider-knob-start-color: var(--paper-slider-knob-color)
+  paper-slider-pin-color: var(--paper-slider-knob-color)
+  paper-slider-active-color: var(--paper-slider-knob-color)
+  paper-slider-secondary-color: var(--light-primary-color)
+  # Labels
+  label-badge-background-color: "#424242"
+  label-badge-text-color: "#FF9A6E"
+  label-badge-red: "#FF6262"
+  label-badge-green: "#A4F0AA"
+  label-badge-blue: "#A4EAF0"
+  label-badge-yellow: "#FAF786"
+  label-badge-gray: "#CDCDCD"
+
+  # Cards
+  ha-card-border-radius: "15px"
+  paper-card-background-color: "#424242"
+  paper-listbox-background-color: "#2D2D2D"
+  # Switches
+  switch-checked-button-color: "#FF9A6E"
+  switch-checked-track-color: "#FFA882"
+  switch-unchecked-button-color: "#FFCBA2"
+  switch-unchecked-track-color: "#FFCBA2"
+  # Toggles
+  paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
+  paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
+  paper-toggle-button-unchecked-button-color: var(--switch-unchecked-button-color)
+  paper-toggle-button-unchecked-bar-color: var(--switch-unchecked-track-color)
+  # Table
+  table-row-background-color: var(--primary-background-color)
+  table-row-alternative-background-color: var(--secondary-background-color)
+  data-table-background-color: var(--primary-background-color)
