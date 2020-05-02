@@ -34,10 +34,10 @@ AMOLED Peach:
   # Labels
   label-badge-background-color: "#424242"
   label-badge-text-color: "#FF9A6E"
-  label-badge-red: "#FF6262"
-  label-badge-green: "#A4F0AA"
+  label-badge-red: "#e6713e"
+  label-badge-green: "#b5de78"
   label-badge-blue: "#A4EAF0"
-  label-badge-yellow: "#FAF786"
+  label-badge-yellow: "#fbffab"
   label-badge-gray: "#CDCDCD"
 
   # Cards
