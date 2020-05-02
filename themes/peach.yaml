@@ -13,7 +13,7 @@ AMOLED Peach:
   primary-text-color: "#FF9A6E"
   secondary-text-color: "#FFA882"
   text-primary-color: "#FFFFFF"
-  disabled-text-color: "#FF98BC"
+  disabled-text-color: "#e6713e"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
   sidebar-text-color: '#FF9A6E'
