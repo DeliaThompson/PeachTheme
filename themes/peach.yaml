@@ -2,38 +2,38 @@
 Peach:
   # Header:
   app-header-background-color: "#424242"
-  app-header-text-color: "#FF9A6E"
+  app-header-text-color: "#ff8d5c"
   # Main Interface Colors
-  primary-color: "#FF9A6E"
+  primary-color: "#ff8d5c"
   light-primary-color: var(--primary-color)
   primary-background-color: "#424242"
   secondary-background-color: var(--primary-background-color)
   divider-color: var(--primary-background-color)
   # Text
-  primary-text-color: "#FF9A6E"
+  primary-text-color: "#ff8d5c"
   secondary-text-color: "#FFA882"
   text-primary-color: "#FFFFFF"
   disabled-text-color: "#cf4217"
   # Sidebar Menu
   sidebar-icon-color: var(--app-header-text-color)
-  sidebar-text-color: '#FF9A6E'
+  sidebar-text-color: '#ff8d5c'
   sidebar-background-color: "#2D2D2D"
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: "#FFA882"
   sidebar-selected-text-color: var(--sidebar-selected-icon-color))
   # States and Badges
-  state-icon-color: "#FF9A6E"
+  state-icon-color: "#ff8d5c"
   state-icon-active-color: "#FFA882"
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
-  paper-slider-knob-color: "#FF9A6E"
+  paper-slider-knob-color: "#ff8d5c"
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
   paper-slider-active-color: var(--paper-slider-knob-color)
   paper-slider-secondary-color: var(--light-primary-color)
   # Labels
   label-badge-background-color: "#424242"
-  label-badge-text-color: "#FF9A6E"
+  label-badge-text-color: "#ff8d5c"
   label-badge-red: "#e6713e"
   label-badge-green: "#b5de78"
   label-badge-blue: "#A4EAF0"
@@ -45,7 +45,7 @@ Peach:
   paper-card-background-color: "#424242"
   paper-listbox-background-color: "#2D2D2D"
   # Switches
-  switch-checked-button-color: "#FF9A6E"
+  switch-checked-button-color: "#ff8d5c"
   switch-checked-track-color: "#FFA882"
   switch-unchecked-button-color: "#FFCBA2"
   switch-unchecked-track-color: "#FFCBA2"
